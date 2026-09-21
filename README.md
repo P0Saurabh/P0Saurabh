@@ -1,197 +1,213 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+# Hey, I'm Saurabh Pawar 👋
 
-<!--  github.com/P0Saurabh                                             -->
+### Cloud & DevOps Engineer · Software Engineer · Founder at [Omnifex](https://omnifex.in/)
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+I build **cloud infrastructure, production software, automation, developer systems, and applied AI solutions**.
 
-<div align="center">
+[![Omnifex](https://img.shields.io/badge/OMNIFEX-Custom_Software_%2B_AI_Research-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://omnifex.in/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Saurabh_Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-pawar04/)
+[![GitHub](https://img.shields.io/badge/GITHUB-P0Saurabh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P0Saurabh)
+[![Email](https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhsp0402@gmail.com)
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a3e,25:1b1464,50:3a0ca3,75:4361ee,100:4cc9f0&height=250&section=header&text=Saurabh%20Pawar&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Cloud%20DevOps%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20Omnifex%20AI%20Lab&descSize=16&descAlignY=58&descAlign=50&descColor=a5b4fc&stroke=4cc9f0&strokeWidth=1"
-width="100%"
-alt="Saurabh Pawar"
-/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=650&lines=%24+whoami+-+saurabh%40omnifex;%24+gcloud+auth+list+-+ACTIVE;%24+docker+compose+up+-d+-+started;%24+kubectl+get+pods+-+Running;%24+npm+run+deploy+-+production+ready"
-    alt="Terminal Typing Animation"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://posaurabh.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-posaurabh.github.io-00C7B7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/saurabhpawar04">
-  <img src="https://img.shields.io/badge/LinkedIn-saurabhpawar04-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:saurabhsp0402@gmail.com">
-  <img src="https://img.shields.io/badge/Email-saurabhsp0402%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=P0Saurabh&style=flat-square&color=58A6FF&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/P0Saurabh?style=flat-square&logo=github&label=Followers&color=3FB950)
 
 ---
 
-### `saurabh@omnifex:~$ cat /etc/profile`
+## About Me
 
-```yaml
-name:          Saurabh Pawar
-role:          Cloud DevOps Engineer | Full-Stack Developer
-certification: Google Professional Cloud DevOps Engineer
-venture:       Founder @ Omnifex AI Lab
-education:     Computer Engineering, MGM College of Engineering, Nanded
+I'm a **Computer Engineering graduate** and **Google Professional Cloud DevOps Engineer** working across cloud infrastructure, DevOps, backend engineering, full-stack software, workflow automation, and applied AI.
 
-focus:
-  - Cloud & DevOps
-  - Full-Stack Engineering
-  - AI Applications
-  - Automation
-  - Cloud-Native Systems
-```
+I like working across the complete engineering lifecycle:
 
-I’m a **Computer Engineering graduate**, **Google Professional Cloud DevOps Engineer**, and full-stack developer focused on building reliable software, cloud infrastructure, automation systems, and AI-powered applications.
+**Understand → Architect → Build → Automate → Deploy → Observe → Improve**
 
-I founded **Omnifex AI Lab** to build practical software and automation solutions, from web platforms and internal management systems to AI-driven products and intelligent workflows.
+My focus is not simply shipping code. I care about building systems that are **useful, maintainable, observable, reliable, and ready for real users**.
 
-My engineering interests sit at the intersection of **software development, cloud infrastructure, DevOps, automation, and applied AI**.
+I'm also the founder of **[Omnifex](https://omnifex.in/)**, where we build custom software around real business requirements and investigate AI through research, experiments, prototypes, and working systems.
 
 ---
 
-### `cat /proc/stack`
+# Engineering Focus
 
-<div align="center">
-
-#### Cloud · DevOps · Infrastructure
-
-<a href="https://skillicons.dev">
-  <img
-    src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,githubactions,linux,firebase,bash&theme=dark"
-    alt="Cloud and DevOps Skills"
-  />
-</a>
-
-<br/><br/>
-
-#### Backend · Frontend · Languages
-
-<a href="https://skillicons.dev">
-  <img
-    src="https://skillicons.dev/icons?i=fastapi,python,react,nextjs,nodejs,express,flask,ts,js&theme=dark"
-    alt="Development Skills"
-  />
-</a>
-
-<br/><br/>
-
-#### Data · Web · Engineering Tools
-
-<a href="https://skillicons.dev">
-  <img
-    src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,html,css,tailwind&theme=dark"
-    alt="Data and Engineering Skills"
-  />
-</a>
-
-</div>
+| Area | What I Work On |
+| --- | --- |
+| ☁️ **Cloud Infrastructure** | Google Cloud, AWS, deployment architecture, scalable environments |
+| ⚙️ **DevOps & Platform Engineering** | CI/CD, containers, automation, observability, reliability |
+| 🧱 **Backend Engineering** | APIs, services, integrations, business logic, internal platforms |
+| 🖥️ **Full-Stack Software** | Web applications, dashboards, management systems, operational tools |
+| 🔁 **Automation** | Workflow automation, process integration, repetitive-work reduction |
+| 🤖 **Applied AI** | Experiments, prototypes, model evaluation, AI workflows, production integration |
 
 ---
 
-### `systemctl status community`
+# Technology Stack
+
+## ☁️ Cloud & DevOps
+
+![Cloud Stack](https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,githubactions,linux,bash&theme=dark)
+
+`Google Cloud` · `AWS` · `Docker` · `Kubernetes` · `GitHub Actions` · `Linux` · `Bash`
+
+## 🧱 Backend
+
+![Backend Stack](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flask&theme=dark)
+
+`Python` · `FastAPI` · `Node.js` · `Express` · `Flask`
+
+## 🎨 Frontend
+
+![Frontend Stack](https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind&theme=dark)
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS`
+
+## 🗄️ Data & Engineering
+
+![Data Stack](https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vscode&theme=dark)
+
+`PostgreSQL` · `MongoDB` · `Redis` · `Git` · `GitHub` · `REST APIs` · `System Integration`
+
+---
+
+# 🚀 Founder @ Omnifex
+
+[![Website](https://img.shields.io/badge/Website-omnifex.in-8250DF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omnifex.in/)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-Omnifex--Agency-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omnifex-Agency)
+
+> **We build systems. We explore what comes next.**
+
+**Omnifex** is a specialist engineering studio operating across two practices:
+
+| 💻 Custom Software | 🧠 AI Research & Development |
+| --- | --- |
+| Web applications | Applied AI research |
+| Business systems | Technical experiments |
+| Management platforms | Working prototypes |
+| APIs and integrations | Model evaluation |
+| Internal tools | AI-powered workflows |
+| Workflow automation | Agents and automation |
+| Operational software | Validated AI systems |
+
+### How We Work
 
 ```text
-● community.service - Developer Community & Leadership
-
-     2024-2025   Co-Organizer
-                 GDG on Campus, MGM College of Engineering
-
-     2023-2025   Microsoft Learn Student Ambassador
-                 Microsoft
+DISCOVER
+   ↓
+DEFINE
+   ↓
+ARCHITECT
+   ↓
+PROTOTYPE
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+DEPLOY
+   ↓
+LEARN
 ```
 
-Community involvement has strengthened my experience in technical collaboration, developer engagement, knowledge sharing, and organizing technology-focused initiatives.
+At Omnifex, I work across **technical direction, architecture, engineering, prototyping, product thinking, cloud delivery, and translating real operational problems into dependable software systems**.
+
+### Omnifex Engineering on GitHub
+
+Our GitHub organization is where we develop and experiment with software across **TypeScript, Python, product prototypes, and engineering research**.
+
+[**Explore Omnifex-Agency →**](https://github.com/Omnifex-Agency)
 
 ---
 
-### `htop --user saurabh`
+# 🌐 Selected Omnifex Work
 
-<div align="center">
+A few production websites and digital experiences built by our team:
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P0Saurabh&theme=github_dark"
-width="100%"
-alt="GitHub Profile Details"
-/>
+| Project | What We Built | Live |
+| --- | --- | :---: |
+| **Thaiseva** | Thailand travel platform bringing bookings, transport, tours, stays, and local assistance together | [Visit ↗](https://thaiseva.com/) |
+| **Tandoor Grill Thailand** | Restaurant website for an authentic North Indian dining experience in Bangkok | [Visit ↗](https://tandoorgrillthailand.com/) |
+| **Intela Solution** | Corporate website for a Thailand-based technology and business solutions company | [Visit ↗](https://intelasolution.com/) |
 
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P0Saurabh&theme=github_dark"
-        alt="Repositories Per Language"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P0Saurabh&theme=github_dark"
-        alt="Most Used Commit Language"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P0Saurabh&theme=github_dark"
-        alt="GitHub Statistics"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P0Saurabh&theme=github_dark&utcOffset=5.5"
-        alt="Productive Time"
-      />
-    </td>
-  </tr>
-</table>
-
-<img
-src="https://streak-stats.demolab.com/?user=P0Saurabh&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"
-alt="GitHub Streak"
-width="55%"
-/>
-
-</div>
+> More production work, internal systems, automation projects, and AI experiments are being documented through Omnifex.
 
 ---
 
-### `saurabh@omnifex:~$ ./connect.sh`
+# 🎙️ Featured Open Source — JSVoice
 
-<div align="center">
+[![JSVoice](https://img.shields.io/badge/JSVoice-Voice_Interfaces_for_the_Web-58A6FF?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/VoiceUI-js/JSVoice)
+[![Stars](https://img.shields.io/github/stars/VoiceUI-js/JSVoice?style=flat-square&logo=github&label=Stars&color=F1E05A)](https://github.com/VoiceUI-js/JSVoice/stargazers)
+[![Forks](https://img.shields.io/github/forks/VoiceUI-js/JSVoice?style=flat-square&logo=github&label=Forks&color=58A6FF)](https://github.com/VoiceUI-js/JSVoice/forks)
+[![Issues](https://img.shields.io/github/issues/VoiceUI-js/JSVoice?style=flat-square&logo=github&label=Issues&color=A371F7)](https://github.com/VoiceUI-js/JSVoice/issues)
 
-### Building software. Automating systems. Exploring applied AI.
+**JSVoice** is a JavaScript voice-interface library that I co-developed with a collaborator.
 
-**Open to Cloud, DevOps, Software Engineering opportunities and technical collaborations.**
+It is designed to add **voice commands and speech capabilities to web applications**, with support for:
 
-<br/>
+- On-device Whisper-based speech recognition
+- Voice commands
+- Speech synthesis
+- TypeScript
+- React integrations
+- Voice UI components
+- Wake-word and hybrid speech-engine workflows
+- Browser-focused accessibility and voice-first experiences
 
-<a href="https://posaurabh.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/saurabhpawar04">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:saurabhsp0402@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[**View JSVoice on GitHub →**](https://github.com/VoiceUI-js/JSVoice)
 
-</div>
+---
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:4cc9f0,25:4361ee,50:3a0ca3,75:1b1464,100:0c0a3e&height=150&section=footer&animation=twinkling"
-width="100%"
-alt="Footer"
-/>
+# 🏅 Certification
+
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_DevOps_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/learn/certification/cloud-devops-engineer)
+
+### Google Professional Cloud DevOps Engineer
+
+Focused on designing, building, deploying, monitoring, and operating reliable services and infrastructure on Google Cloud.
+
+---
+
+# 🌍 Community & Leadership
+
+| Community | Role | Period |
+| --- | --- | --- |
+| **GDG on Campus · MGM College of Engineering** | Co-Organizer | `2024 - 2025` |
+| **Microsoft** | Microsoft Learn Student Ambassador | `2023 - 2025` |
+
+I value developer communities as places to **share knowledge, build with others, and help people learn technology through practical engineering**.
+
+---
+
+# 📊 GitHub Activity
+
+## Contribution Overview
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P0Saurabh&theme=github_dark)
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=P0Saurabh&theme=github-dark-blue&hide_border=true)
+
+## Repository Activity
+
+![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P0Saurabh&theme=github_dark)
+
+![Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P0Saurabh&theme=github_dark)
+
+[![Explore Repositories](https://img.shields.io/badge/Explore-My_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P0Saurabh?tab=repositories)
+
+---
+
+# 🤝 Connect
+
+### Let's build useful systems.
+
+**Cloud · DevOps · Software · Automation · AI**
+
+[![Omnifex](https://img.shields.io/badge/Omnifex-Visit-8250DF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omnifex.in/)
+[![Omnifex GitHub](https://img.shields.io/badge/Omnifex-GitHub_Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omnifex-Agency)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-pawar04/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhsp0402@gmail.com)
+
+---
+
+**Engineering for reliability, clarity, automation, and real-world usefulness.**
